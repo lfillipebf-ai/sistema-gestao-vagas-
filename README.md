@@ -64,8 +64,8 @@ sistema-gestao-vagas/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/lfillipebf-ai/sistema-gestao-vagas.git
-cd sistema-gestao-vagas
+git clone https://github.com/lfillipebf-ai/sistema-gestao-vagas-.git
+cd sistema-gestao-vagas-
 ```
 
 ### 2. Suba os serviços
